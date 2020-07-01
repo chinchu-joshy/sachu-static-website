@@ -115,6 +115,7 @@ body{
       .section-4{
           width: 100%;
           padding-top: 3rem;
+          padding-bottom: 3rem;
           background-color: black;
       
       }
@@ -139,9 +140,11 @@ body{
           .section-5{
             width: 100%;
             padding-top: 3rem;
+            padding-bottom: 3rem;
             background-color: black;
             background-image: url("IMG-20200624-WA0088.jpg");
         background-repeat: no-repeat, 
+            
           }
           .foto-cnt{
             color: darkgray;
@@ -241,6 +244,7 @@ body{
          .navbar-toggler-icon{
            font-size: 1rem;
          }
+         
           
           
          
