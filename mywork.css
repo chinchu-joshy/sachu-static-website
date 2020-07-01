@@ -14,7 +14,7 @@ body{
 .textclr{
     color:white;
     margin-left: 1rem;
-    
+    font-size: medium;
     
 }
 .head-right{
@@ -146,6 +146,7 @@ body{
           .foto-cnt{
             color: darkgray;
             font-family: Impact, Charcoal, sans-serif;
+            font-size: 1.2rem;
           }
           .foto-clr{
             color: rgb(226, 213, 28);
@@ -189,6 +190,7 @@ body{
          }
          .price-text{
           color: darkgray;
+          font-size: small;
          }
          .foot{
           width: 100%;
@@ -235,6 +237,9 @@ body{
          }
          .interest-arrange{
            float: left;
+         }
+         .navbar-toggler-icon{
+           font-size: 1rem;
          }
           
           
