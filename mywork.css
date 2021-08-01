@@ -79,6 +79,13 @@ body{
           background-image: url("IMG-20200624-WA0088.jpg");
           background-repeat: no-repeat, 
       }
+      .section-ui{
+        width: 100%;
+          padding-top: 3rem;
+          background-color: black; 
+          background-image: url("IMG-20200624-WA0088.jpg");
+          background-repeat: no-repeat,
+      }
       .abt{
         color: rgb(31, 113, 116);
         
